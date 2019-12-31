@@ -4,9 +4,16 @@ baris ke tiga
 
 
 
-----------
+
+
+
+Ini adalah baris yg sama guna mencoba merge konflik
+merge konflik adalah dmana ada baris yg sama dalam satu file
+pada dua branch (cabang) yg diedit atau dikembangkan
+jadi, untuk menyelesaikan nya si owner atau pemilik cabang utama atau
+master branch harus memilih salah satu dari file yg di edit oleh
+contributor.
 1. baris pertama
 2. baris kedua
 3. baris ketiga
-4. baris keempat
-5. baris kelima
+
