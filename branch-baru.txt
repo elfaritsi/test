@@ -3,6 +3,10 @@ baris ke dua
 baris ke tiga
 
 
+
+
+
+
 Ini adalah baris yg sama guna mencoba merge konflik
 merge konflik adalah dmana ada baris yg sama dalam satu file
 pada dua branch (cabang) yg diedit atau dikembangkan
@@ -12,3 +16,4 @@ contributor.
 1. baris pertama
 2. baris kedua
 3. baris ketiga
+
