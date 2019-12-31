@@ -1,3 +1,12 @@
 file ini untuk pembelajaran tentang branch (cabang) pada github
 baris ke dua
 baris ke tiga
+
+
+
+----------
+1. baris pertama
+2. baris kedua
+3. baris ketiga
+4. baris keempat
+5. baris kelima
